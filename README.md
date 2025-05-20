@@ -2,7 +2,7 @@
 
 This project analyzes HR data to uncover insights about employee attrition using Excel and Power BI. The goal was to identify key factors affecting attrition and present them in a visually interactive dashboard.
 
-## 🔍 Project Workflow
+##  Project Work
 
 1. **Data Exploration & Transformation (Excel)**
    - Performed initial analysis using Excel pivot tables.
@@ -30,5 +30,5 @@ This project analyzes HR data to uncover insights about employee attrition using
 - Microsoft Excel (pivot tables, column creation)
 - Power BI Desktop
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Preview](screenshot.png)
